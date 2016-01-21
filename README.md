@@ -2,6 +2,9 @@
 
 **this package is experimental and its api has not yet been solidified. Please feel free to contribute**
 
+v1 [![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://godoc.org/github.com/HOSTINGLabs/Hosting.Golang.DSC/v1)
+v2 _no such version yet_
+
 Golang DSC is a package that implements a Desired State Configuration (a.k.a Configuration Enforcement) primitives. Golang DSC is inspired from Puppet's Configuration DSL and Microsoft Powershell DSC.
 
 For example, let us say instead of writing a file with the traditional boiler plate, we can more accurately describe our file write in a DSL-like syntax:
