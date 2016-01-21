@@ -2,7 +2,7 @@ package main
 
 import(
     "log"
-    "../../godsc"
+    "../../Hosting.Golang.DSC/v1"
 )
 
 func main() {
